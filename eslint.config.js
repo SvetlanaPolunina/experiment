@@ -12,5 +12,5 @@ const compat = new FlatCompat({baseDirectory: __dirname, recommendedConfig: plug
 
 export default [
   {languageOptions: { globals: globals.node }},
-  ...compat.extends("airbnb"),
+  ...compat.extends("airbnb-base"),
 ];
