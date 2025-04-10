@@ -19,5 +19,9 @@
     "url": "https://github.com/SvetlanaPolunina/experiment/issues"
   },
   "homepage": "https://github.com/SvetlanaPolunina/experiment#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@eslint/create-config": "^1.0.0",
+    "eslint": "^8.57.0"
+  }
 }
